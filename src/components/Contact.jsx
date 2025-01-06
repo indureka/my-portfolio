@@ -69,7 +69,7 @@ const Contact = () => {
                   name="from_name"
                   placeholder="Enter your name"
                   required
-                  className="w-full px-4 py-3 rounded-md border-b-2 border-b-gray-900 text-sm text-gray-100 font-light focus:outline-none focus:ring-0 focus:border-b-2 focus:border-b-gray-700"
+                  className="bg-transparent w-full px-4 py-3 rounded-md border-b-2 border-b-gray-900 text-sm text-gray-100 font-light focus:outline-none focus:ring-0 focus:border-b-2 focus:border-b-gray-700"
                 />
               </div>
               <div>
@@ -81,7 +81,7 @@ const Contact = () => {
                   name="from_email"
                   placeholder="Enter your email"
                   required
-                  className="w-full px-4 py-3 rounded-md border-b-2 border-b-gray-900 text-sm text-gray-100 font-light focus:outline-none focus:ring-0 focus:border-b-2 focus:border-b-gray-700"
+                  className="bg-transparent w-full px-4 py-3 rounded-md border-b-2 border-b-gray-900 text-sm text-gray-100 font-light focus:outline-none focus:ring-0 focus:border-b-2 focus:border-b-gray-700"
                 />
               </div>
               <div>
@@ -91,7 +91,7 @@ const Contact = () => {
                   placeholder="Write your message here"
                   required
                   rows="4"
-                  className="w-full px-4 py-3 rounded-md border-2 border-gray-900 text-sm text-gray-100 font-light focus:outline-none focus:ring-0 focus:border focus:border-gray-700"
+                  className="bg-transparent w-full px-4 py-3 rounded-md border-2 border-gray-900 text-sm text-gray-100 font-light focus:outline-none focus:ring-0 focus:border focus:border-gray-700"
                 ></textarea>
               </div>
               <div>

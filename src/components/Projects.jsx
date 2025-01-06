@@ -18,7 +18,7 @@ const Projects = () => {
       <div className="container mx-auto py-6 px-5">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
           {/* Project 1 */}
-          <div className="flex flex-wrap items-stretch bg-[#1a1a1a] rounded-lg shadow-lg border border-gray-900 overflow-hidden">
+          <div className="flex flex-wrap items-stretch rounded-lg shadow-lg border border-gray-900 overflow-hidden">
             {/* left Hand Side (Image and Content) */}
             <div className="flex-1 p-3">
               {/* Image */}
@@ -64,7 +64,7 @@ const Projects = () => {
           </div>
 
           {/* Project 2 */}
-          <div className="flex flex-wrap items-stretch bg-[#1a1a1a] rounded-lg shadow-lg border border-gray-900 overflow-hidden">
+          <div className="flex flex-wrap items-stretch rounded-lg shadow-lg border border-gray-900 overflow-hidden">
             {/* left Hand Side (Image and Content) */}
             <div className="flex-1 p-3">
               {/* Image */}
@@ -111,7 +111,7 @@ const Projects = () => {
           </div>
 
           {/* Project 3 */}
-          <div className="flex flex-wrap items-stretch bg-[#1a1a1a] rounded-lg shadow-lg border border-gray-900 overflow-hidden">
+          <div className="flex flex-wrap items-stretch rounded-lg shadow-lg border border-gray-900 overflow-hidden">
             {/* left Hand Side (Image and Content) */}
             <div className="flex-1 p-3">
               {/* Image */}
